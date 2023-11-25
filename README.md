@@ -4,15 +4,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://illuminasrul.github.io/QR-Code-Component-Challenge/" color="white" target="_blank" >
+    <a href="https://nasrulkhakim.github.io/Summary-Result-Component-Challenge/" color="white" target="_blank" >
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/qr-code-component-challenge-using-html-and-css-ODNrhyzMY5" target="_blank" >
+    <a href="#" target="_blank" >
       Solution
     </a>
    <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">
+    <a href="https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV" target="_blank">
       Challenge
     </a>
   </h3>
