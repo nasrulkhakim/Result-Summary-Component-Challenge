@@ -1,4 +1,4 @@
-<img src="/images/project-preview.png"></img>
+<img src="/design/Desktop Preview.png"></img>
 
 <h1 align="center">Summary Result component challenge</h1>
 
