@@ -8,7 +8,7 @@
       Live
     </a>
     <span> | </span>
-    <a href="#" target="_blank" >
+    <a href="https://www.frontendmentor.io/solutions/result-summary-component-challenge-using-html-and-css-PTXOLS_WHS" target="_blank" >
       Solution
     </a>
    <span> | </span>
