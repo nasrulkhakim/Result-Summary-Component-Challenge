@@ -216,7 +216,7 @@ li {
 	display: flex;
 	justify-content: space-between;
 	border-radius: 30px;
-	box-shadow: 0 10px 30px 10px rgb(17, 37, 212, 0.2);
+	box-shadow: 0 10px 30px 10px rgb(17, 37, 212, 0.1);
 }
 
 .card .result,
