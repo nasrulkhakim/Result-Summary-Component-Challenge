@@ -1,6 +1,6 @@
-<img src="/design/Desktop Preview.png"></img>
+<img src="/design/screenshot.png"></img>
 
-<h1 align="center">Summary Result component challenge</h1>
+<h1 align="center">Result Summary component challenge</h1>
 
 <div align="center">
   <h3>
@@ -34,4 +34,5 @@ This is my second challenge from frontendmentor.io. The main challenge is to bui
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 - Desktop-first workflow
