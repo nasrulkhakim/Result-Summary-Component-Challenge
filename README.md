@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://nasrulkhakim.github.io/Summary-Result-Component-Challenge/" color="white" target="_blank" >
+    <a href="https://nasrulkhakim-result-summary-component.netlify.app/" color="white" target="_blank" >
       Live
     </a>
     <span> | </span>
